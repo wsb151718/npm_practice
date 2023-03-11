@@ -9,9 +9,9 @@
   "keywords": [],
   "author": "tsubokura satoshi <satoshiyymok@gmail.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/wsb151718/npm_test"
+    "url": "https://github.com/wsb151718/npm_practice/npm_unscoped"
   }
 }
