@@ -1,0 +1,23 @@
+{
+  "name": "npm_scoped",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tsubokura satoshi <satoshiyymok@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wsb151718/npm_practice/npm_scoped"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
