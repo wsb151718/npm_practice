@@ -1,7 +1,6 @@
 {
   "name": "npm_scoped",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,12 +11,12 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/wsb151718/npm_practice/npm_scoped"
+    "url": ""
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "vue": "^3.0.0"
   },
-  "devDependencies": {
-    "mocha": "^10.2.0"
-  }
+  "description": ""
 }
